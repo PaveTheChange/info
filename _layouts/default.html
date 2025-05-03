@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  <header>
+    <img src="/assets/logo.png" alt="PaveTheChange logo" style="height: 40px;">
+    <span style="font-size: 1.5rem; font-weight: bold;">PaveTheChange.org</span>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p style="font-size: 0.8rem; color: #888;">&copy; {{ site.time | date: "%Y" }} PaveTheChange.org</p>
+  </footer>
+</body>
+</html>
