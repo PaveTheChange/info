@@ -1,0 +1,20 @@
+title: PaveTheChange.org Info Hub
+description: Resources, documentation, and deep-dive thinking behind PaveTheChange.org
+theme: just-the-docs
+
+# Optional: Google Analytics or search config
+# google_analytics: UA-XXXXXXX-1
+# just_the_docs:
+#   search_enabled: true
+
+# Custom fonts and brand colour (optional)
+just_the_docs:
+  color_scheme: light
+  logo: "/assets/logo.png"
+  favicon_ico: "/assets/favicon.ico"
+  aux_links:
+    "PaveTheChange.org on LinkedIn":
+      - "https://www.linkedin.com/company/pave-the-change/"
+  heading_anchors: true
+  custom_css:
+    - "/assets/css/custom.css"

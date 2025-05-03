@@ -1,14 +1,13 @@
 ---
-layout: default
 title: Welcome
+nav_order: 1
 ---
 
 # Welcome to PaveTheChange.org Info Hub
 
 This is the official knowledge base and deep-dive reference site for **PaveTheChange.org**. It exists for those who wish to better understand the thinking behind our work and the approach we take to enable meaningful, large-scale change.
 
-We are not here to sell a product.  
-We are here to build a movement.
+We are not here to sell a product. We are here to build a movement. Learn, then decide.
 
 Whether you're curious, deeply aligned, or already on your changemaker journey, this site will help you assess if our path is one you'd like to walk with us.
 
@@ -46,40 +45,28 @@ If you're serious, you'll find the doors open—but never forced.
 
 A collection of our active spaces and channels on LinkedIn:
 
-- 🌍 **PaveTheChange.org (Main Page)**  
-  [linkedin.com/company/pave-the-change](https://www.linkedin.com/company/pave-the-change/)
+- [PaveTheChange.org](https://www.linkedin.com/company/pave-the-change/)
 
-- 🌠 **Million Dreams to Pave the Change (Showcase Page)**  
-  [linkedin.com/showcase/million-dreams-to-pave-the-change](https://www.linkedin.com/showcase/million-dreams-to-pave-the-change/)
+- [Million Dreams](https://www.linkedin.com/showcase/million-dreams-to-pave-the-change/)
 
-- 📖 **Overview of Million Dreams (Article)**  
-  [linkedin.com/pulse/million-dreams-from-where-you-dream-krnuf](https://www.linkedin.com/pulse/million-dreams-from-where-you-dream-krnuf/)
+- [Overview of Million Dreams](https://www.linkedin.com/pulse/million-dreams-from-where-you-dream-krnuf/)
 
-- 📚 **Unwritten – 44 Stories of Change (Showcase Page)**  
-  [linkedin.com/showcase/pave-the-change-unwritten](https://www.linkedin.com/showcase/pave-the-change-unwritten)
+- [Unwritten – Collaborative publishing, including 44 Stories](https://www.linkedin.com/showcase/pave-the-change-unwritten)
 
-- 📢 **Shoutouts**  
-  [linkedin.com/showcase/million-dreams-shoutouts](https://www.linkedin.com/showcase/million-dreams-shoutouts)
+- [Shoutouts - Recognising the collaborators](https://www.linkedin.com/showcase/million-dreams-shoutouts)
 
-- 🕵️‍♂️ **Spotted (Private Group)**  
-  [linkedin.com/groups/10081460](https://www.linkedin.com/groups/10081460)
+- [Spotted (Public Group - Open to all)](https://www.linkedin.com/groups/10081460)
 
-- 🐝 **Buzz (Private Group)**  
-  [linkedin.com/groups/12005670](https://www.linkedin.com/groups/12005670)
+- [Buzz (Public Group - With privileged posting)](https://www.linkedin.com/groups/12005670)
 
-- 🗂 **Directory (Private Group)**  
-  [linkedin.com/groups/12320756](https://www.linkedin.com/groups/12320756)
+- [Directory (Private Group - Open to all for posting Dream decks)](https://www.linkedin.com/groups/12320756)
 
-- 🎨 **Studio (Private Group)**  
-  [linkedin.com/groups/10058057](https://www.linkedin.com/groups/10058057)
+- [Studio (Private Group - Invitation only collaboration workspace)](https://www.linkedin.com/groups/10058057)
 
-- 🎭 **Backstage (Private Group)**  
-  [linkedin.com/groups/10063093](https://www.linkedin.com/groups/10063093)
+- [Backstage (Private Group - Invitation only for ecosystem collaborators)](https://www.linkedin.com/groups/10063093)
 
-- 🔦 **Spotlight (Newsletter)**  
-  [linkedin.com/newsletters/7317073847000694784](https://www.linkedin.com/newsletters/7317073847000694784/)
+- [Spotlight (Newsletter)](https://www.linkedin.com/newsletters/7317073847000694784/)
 
 ---
 
 _Thank you for your curiosity. We hope it leads to courage._
-

@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Privacy Policy
+nav_order: 2
 ---
 
 # Privacy Policy
@@ -15,8 +15,8 @@ Welcome to **PaveTheChange.org**. Your privacy is important to us. This Privacy 
 
 When you use services from PaveTheChange.org, we may collect the following information:
 
-- Basic LinkedIn profile information (e.g. name, email address, profile image) via LinkedIn OAuth  
-- Metadata related to your interactions with our solutions (e.g. timestamps, feature usage)  
+- Basic LinkedIn profile information (e.g. name, email address, profile image) via LinkedIn OAuth
+- Metadata related to your interactions with our solutions (e.g. timestamps, feature usage)
 - Anonymous usage analytics, if enabled (no personal data)
 
 ---
@@ -25,8 +25,8 @@ When you use services from PaveTheChange.org, we may collect the following infor
 
 We use your information to:
 
-- Authenticate and manage your account via LinkedIn  
-- Store and retrieve data securely within our databases  
+- Authenticate and manage your account via LinkedIn
+- Store and retrieve data securely within our databases
 - Improve functionality and user experience
 
 ---
@@ -41,8 +41,8 @@ All data is stored securely on **Supabase**, a trusted backend platform. Supabas
 
 We use the following third-party services:
 
-- **LinkedIn OAuth** – for login and user profile access  
-- **Supabase** – for database and authentication backend  
+- **LinkedIn OAuth** – for login and user profile access
+- **Supabase** – for database and authentication backend
 - **GitHub Pages** – for static hosting of content
 
 Each third-party service may independently collect and store data based on their own policies.
@@ -53,8 +53,8 @@ Each third-party service may independently collect and store data based on their
 
 You have the right to:
 
-- Access the personal data we store about you  
-- Request deletion of your account and associated data  
+- Access the personal data we store about you
+- Request deletion of your account and associated data
 - Withdraw consent at any time
 
 To exercise your rights, please contact us at [privacy@pavethechange.org](mailto:privacy@pavethechange.org).
