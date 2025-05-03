@@ -41,7 +41,7 @@ If you're serious, you'll find the doors open—but never forced.
 
 ---
 
-## 🚀 Useful Links
+## Useful Links
 
 A collection of our active spaces and channels on LinkedIn:
 

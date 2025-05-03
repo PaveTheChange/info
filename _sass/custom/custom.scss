@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+:root {
+  --font-body: "Inter", sans-serif;
+  --font-heading: "Inter", sans-serif;
+}
+
+.side-bar {
+  background-color: #fff; /* Red background for links */
+  border: none;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+  background-image: none !important; /* Remove background image on hover */
+}
+
+.nav-list-link .active {
+  background-color: #000 !important; /* Dark blue background for active item */
+  color: #ffffff !important; /* White text for active item */
+  background-image: none !important; /* Remove background image */
+}
+
+a {
+  color: #000;
+}
+
+.site-title:hover {
+  background-image: none !important;
+}
+
+.site-header {
+  border: none !important;
+}
+
+.site-footer {
+  display: none !important;
+}
+// /* Link color in sidebar */
+// .side-bar a {
+//   color: #003366; /* Dark blue links */
+// }
+
+// /* Highlighted active nav item */
+// .nav-list .nav-list-item .nav-list-link.active {
+//   background-color: #003366; /* Darker background for active item */
+//   color: #ffffff !important; /* White text for active item */
+// }
+
+// /* Optional: Hover effect for sidebar links */
+// .side-bar a:hover {
+//   color: #0072ce;
+//   text-decoration: underline;
+// }

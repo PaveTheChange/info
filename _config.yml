@@ -1,4 +1,4 @@
-title: PaveTheChange.org Info Hub
+title: PaveTheChange.org
 description: Resources, documentation, and deep-dive thinking behind PaveTheChange.org
 
 remote_theme: just-the-docs/just-the-docs
@@ -6,7 +6,4 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-just_the_docs:
-  logo: "/assets/logo.png"
-  favicon_ico: "/assets/favicon.ico"
-  heading_anchors: true
+logo: "/assets/images/logo.png"
