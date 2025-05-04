@@ -45,27 +45,25 @@ If you're serious, you'll find the doors open—but never forced.
 
 A collection of our active spaces and channels on LinkedIn:
 
-- [PaveTheChange.org](https://www.linkedin.com/company/pave-the-change/)
+- [**PaveTheChange.org**](https://www.linkedin.com/company/pave-the-change/)
 
-- [Million Dreams](https://www.linkedin.com/showcase/million-dreams-to-pave-the-change/)
+- [**Million Dreams**](https://www.linkedin.com/showcase/million-dreams-to-pave-the-change/) - [Overview](https://www.linkedin.com/pulse/million-dreams-from-where-you-dream-krnuf/)
 
-- [Overview of Million Dreams](https://www.linkedin.com/pulse/million-dreams-from-where-you-dream-krnuf/)
+- [**Unwritten** – Collaborative publishing, including **44 Stories**](https://www.linkedin.com/showcase/pave-the-change-unwritten)
 
-- [Unwritten – Collaborative publishing, including 44 Stories](https://www.linkedin.com/showcase/pave-the-change-unwritten)
+- [**Shoutouts** - Recognising the collaborators](https://www.linkedin.com/showcase/million-dreams-shoutouts)
 
-- [Shoutouts - Recognising the collaborators](https://www.linkedin.com/showcase/million-dreams-shoutouts)
+- [**Spotted** - Public Group - Open to all - Spot helpful conted and get spotted by well-aligned members](https://www.linkedin.com/groups/10081460)
 
-- [Spotted (Public Group - Open to all - Spot helpful conted and get spotted by well-aligned members)](https://www.linkedin.com/groups/10081460)
+- [**Directory** - Public Group - Open to all for posting their Dreams - Signal your intent and expand your network](https://www.linkedin.com/groups/12320756)
 
-- [Directory (Public Group - Open to all for posting their Dreams - Signal your intent and expand your network)](https://www.linkedin.com/groups/12320756)
+- [**Buzz** - Public Group - Posting restricted to Studio members - Tune into action and lean in to support when you can](https://www.linkedin.com/groups/12005670)
 
-- [Buzz (Public Group - Posting restricted to Studio members - Tune into action and lean in to support when you can)](https://www.linkedin.com/groups/12005670)
+- [**Studio** - Private Group - Invitation only collaboration workspace - Only for Changemakers in action and their active supporters](https://www.linkedin.com/groups/10058057)
 
-- [Studio (Private Group - Invitation only collaboration workspace - Only for Changemakers in action and their active supporters)](https://www.linkedin.com/groups/10058057)
+- [**Backstage** - Private Group - Invitation only for ecosystem collaborators - Lead the change and shape the ecosystem to make it work for you and others](https://www.linkedin.com/groups/10063093)
 
-- [Backstage (Private Group - Invitation only for ecosystem collaborators - Lead the change and shape the ecosystem to make it work for you and others)](https://www.linkedin.com/groups/10063093)
-
-- [Spotlight (Newsletter) - Stay in the know - Helps catching up on things you may have missed](https://www.linkedin.com/newsletters/7317073847000694784/)
+- [**Spotlight** - Newsletter - Stay in the know - Helps catching up on things you may have missed](https://www.linkedin.com/newsletters/7317073847000694784/)
 
 ---
 
