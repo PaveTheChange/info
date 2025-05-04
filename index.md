@@ -53,7 +53,7 @@ A collection of our active spaces and channels on LinkedIn:
 
 - [**Shoutouts**](https://www.linkedin.com/showcase/million-dreams-shoutouts) - Recognising the collaborators
 
-- [**Spotted**](https://www.linkedin.com/groups/10081460) - Public Group - Open to all - Spot helpful conted and get spotted by well-aligned members
+- [**Spotted**](https://www.linkedin.com/groups/10081460) - Public Group - Open to all - Spot and repost helpful content with your thoughts and get spotted by well-aligned members
 
 - [**Directory**](https://www.linkedin.com/groups/12320756) - Public Group - Open to all for posting their Dreams - Signal your intent and expand your network
 
