@@ -5,19 +5,20 @@ nav_order: 3
 
 # Privacy Policy
 
-_Last updated: May 3, 2025_
+_Last updated: May 10, 2025_
 
-Welcome to **PaveTheChange.org**. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our services.
+Welcome to **PaveTheChange.org**. Your privacy matters to us. This Privacy Policy outlines how we collect, use, and protect your information when you engage with our platform.
 
 ---
 
 ## 1. Information We Collect
 
-When you use services from PaveTheChange.org, we may collect the following information:
+We may collect the following types of information:
 
-- Basic LinkedIn profile information (e.g. name, email address, profile image) via LinkedIn OAuth
-- Metadata related to your interactions with our solutions (e.g. timestamps, feature usage)
-- Anonymous usage analytics, if enabled (no personal data)
+- Personal details you choose to provide (e.g. first name, last name, country, timezone, MBTI type, LinkedIn URL, etc.)
+- Data from platform interactions (e.g. submitted forms, preferences, and collaboration activity)
+- Metadata such as timestamps and engagement history
+- Anonymous usage analytics (if enabled)
 
 ---
 
@@ -25,27 +26,23 @@ When you use services from PaveTheChange.org, we may collect the following infor
 
 We use your information to:
 
-- Authenticate and manage your account via LinkedIn
-- Store and retrieve data securely within our databases
-- Improve functionality and user experience
+- Facilitate collaboration between members
+- Match you with others who can support your dreams and goals
+- Improve the functionality, usability, and overall experience of our platform
+
+We do **not** sell your data. Your information is used solely to enhance your participation and community interaction.
 
 ---
 
 ## 3. Data Storage & Security
 
-All data is stored securely on **Supabase**, a trusted backend platform. Supabase adheres to industry best practices for data security and encryption.
+All data is stored securely on **Supabase**, which follows industry-standard practices for encryption, access control, and data protection.
 
 ---
 
-## 4. Third-Party Services
+## 4. Token System
 
-We use the following third-party services:
-
-- **LinkedIn OAuth** – for login and user profile access
-- **Supabase** – for database and authentication backend
-- **GitHub Pages** – for static hosting of content
-
-Each third-party service may independently collect and store data based on their own policies.
+We operate an off-chain token system within our platform database. Tokens may be used for recognition and collaboration tracking. Only upon reaching specific thresholds (as defined by the platform) may users request on-chain transfers to their digital wallet.
 
 ---
 
@@ -53,27 +50,27 @@ Each third-party service may independently collect and store data based on their
 
 You have the right to:
 
-- Access the personal data we store about you
-- Request deletion of your account and associated data
-- Withdraw consent at any time
+- Access your personal information
+- Request updates or deletions
+- Withdraw participation at any time
 
-To exercise your rights, please contact us at [hello@pavethechange.org](mailto:hello@pavethechange.org).
+To exercise your rights, contact us at [hello@pavethechange.org](mailto:hello@pavethechange.org).
 
 ---
 
 ## 6. Cookies
 
-We do **not** use tracking cookies at this time. If we implement cookies in the future, we will update this policy accordingly.
+We currently do **not** use tracking cookies. If this changes, we will update this policy accordingly.
 
 ---
 
 ## 7. Changes to This Policy
 
-We may update this policy periodically. All changes will be reflected on this page, with the “Last Updated” date revised accordingly.
+This policy may be updated periodically. The latest version will always be available here with the updated date shown above.
 
 ---
 
 ## 8. Contact
 
-If you have questions about this Privacy Policy or your data, email us at:  
-[hello@pavethechange.org](mailto:hello@pavethechange.org)
+Questions?  
+Email us at [hello@pavethechange.org](mailto:hello@pavethechange.org).
