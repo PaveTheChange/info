@@ -5,61 +5,70 @@ nav_order: 2
 
 # Terms of Service
 
-_Last updated: May 3, 2025_
+_Last updated: May 10, 2025_
 
-Welcome to **PaveTheChange.org**. These Terms of Service (“Terms”) govern your access to and use of our platform, features, and related services. By using our services, you agree to these Terms.
-
----
-
-## 1. Using Our Platform
-
-You may use PaveTheChange.org only in compliance with these Terms and all applicable laws. You must be at least 16 years old or the age of legal consent in your jurisdiction.
+Thank you for using **PaveTheChange.org**. These Terms of Service outline the conditions under which you can access and use our platform.
 
 ---
 
-## 2. Your Responsibilities
+## 1. Acceptance of Terms
 
-You are responsible for:
-
-- Keeping your secret words secure and private  
-- Ensuring your LinkedIn account remains accessible to you  
-- Using our services in good faith and not for misuse or harm
-
-We are not responsible for any loss caused by unauthorised access due to compromised credentials.
+By accessing our platform, you agree to be bound by these terms and our [Privacy Policy](/privacy). If you do not agree, please do not use the platform.
 
 ---
 
-## 3. User Content
+## 2. Your Account
 
-Any content you submit (e.g. dreams, contributions, ideas) remains yours. However, by submitting content, you grant us a non-exclusive, royalty-free licence to display, adapt, and use it for platform-related purposes.
+You may be required to create a profile and provide accurate information such as:
 
----
+- Name, country, timezone, MBTI type
+- LinkedIn profile URL (for community interactions)
 
-## 4. Account Recovery Limitations
-
-We do **not** store your secret words. In exceptional cases, limited recovery may be offered **only via your connected LinkedIn account**, subject to verification and platform discretion.
-
----
-
-## 5. Service Availability
-
-We aim to provide reliable access to our services but do not guarantee uninterrupted availability. Access may be suspended temporarily for maintenance, upgrades, or unforeseen issues.
+You are responsible for safeguarding your access credentials and maintaining the accuracy of your profile.
 
 ---
 
-## 6. Third-Party Links
+## 3. Community Standards
 
-Our platform may include links to third-party sites (e.g. info pages, documentation, integrations). We are not responsible for the content or policies of those sites.
+You agree to:
+
+- Act respectfully toward others
+- Use the platform for lawful purposes
+- Refrain from any behaviour that disrupts or harms the community
+
+We reserve the right to moderate or remove any user content that violates these expectations.
+
+---
+
+## 4. Intellectual Property
+
+All content provided through the platform is protected by copyright and other laws. You may not reproduce, redistribute, or exploit any part of the service without permission.
+
+---
+
+## 5. Token Usage
+
+Tokens represent engagement, contribution, and value within the platform. They are initially off-chain and stored in our database. You may request a transfer to your on-chain wallet only after meeting specific thresholds and conditions.
+
+These tokens do not represent equity, ownership, or guaranteed financial value.
+
+---
+
+## 6. Disclaimers
+
+We provide the platform "as is" without warranties of any kind. Participation is voluntary and outcomes are not guaranteed.
+
+We are not responsible for any decisions or collaborations that occur through the platform.
 
 ---
 
 ## 7. Changes to These Terms
 
-We may update these Terms from time to time. Changes will be posted on this page with the revised “Last Updated” date. Continued use of the platform implies acceptance of the revised Terms.
+These terms may change. The most recent version will always be posted here. Your continued use of the platform signifies your acceptance of any updates.
 
 ---
 
 ## 8. Contact
 
-For any questions about these Terms, reach out to us at:  
+If you have questions about these terms, please reach out to us at:  
 [hello@pavethechange.org](mailto:hello@pavethechange.org)
