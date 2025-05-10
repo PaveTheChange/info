@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-nav_order: 2
+nav_order: 3
 ---
 
 # Privacy Policy
@@ -57,7 +57,7 @@ You have the right to:
 - Request deletion of your account and associated data
 - Withdraw consent at any time
 
-To exercise your rights, please contact us at [privacy@pavethechange.org](mailto:privacy@pavethechange.org).
+To exercise your rights, please contact us at [hello@pavethechange.org](mailto:hello@pavethechange.org).
 
 ---
 
@@ -76,4 +76,4 @@ We may update this policy periodically. All changes will be reflected on this pa
 ## 8. Contact
 
 If you have questions about this Privacy Policy or your data, email us at:  
-[privacy@pavethechange.org](mailto:privacy@pavethechange.org)
+[hello@pavethechange.org](mailto:hello@pavethechange.org)
