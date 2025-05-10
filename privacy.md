@@ -60,7 +60,10 @@ To exercise your rights, contact us at [hello@pavethechange.org](mailto:hello@pa
 
 ## 6. Cookies
 
-We currently do **not** use tracking cookies. If this changes, we will update this policy accordingly.
+We use cookies only for essential platform functionality, such as authentication and user preferences (e.g. theme selection).  
+We do **not** use cookies to track you across third-party websites.
+
+If our cookie usage changes in the future, we will update this policy accordingly.
 
 ---
 
