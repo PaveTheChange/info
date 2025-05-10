@@ -58,13 +58,15 @@ To exercise your rights, contact us at [hello@pavethechange.org](mailto:hello@pa
 
 ---
 
-## 6. Cookies
+## 6. Cookies & Browser Storage
 
-We use cookies only for essential platform functionality, such as authentication and user preferences (e.g. theme selection).  
+We use cookies and other browser storage mechanisms (such as local and session storage) to support essential functionality and improve your experience on the platform.
 
-We do **not** use cookies to track you across third-party websites.
+This includes, but is not limited to, remembering preferences, maintaining login sessions, and securely storing data on your device.
 
-If our cookie usage changes in the future, we will update this policy accordingly.
+We do **not** use cookies or browser storage for third-party tracking or advertising purposes.
+
+If our usage practices change significantly, we will update this policy accordingly.
 
 ---
 
